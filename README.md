@@ -14,4 +14,8 @@ ref:rain《恋如雨止》 Aimer
 
 ナラタージュ ナラタージュ Adieu
 
-2018/2/25 cuj
+影と光を追 「快傑蒸気探偵団」ヴォーカルアルバム White V.A.
+
+Memories 「快傑蒸気探偵団」ヴォーカルアルバム White V.A.
+
+2018/5/2 cuj
