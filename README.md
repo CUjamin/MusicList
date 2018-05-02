@@ -20,4 +20,5 @@ Memories 「快傑蒸気探偵団」ヴォーカルアルバム White V.A.
 
 2018/5/2 cuj 
 
-for slotMusic
+for slotMusic ... ...
+![image](https://raw.githubusercontent.com/CUjamin/MusicList/master/picture/slotMusic.png)
