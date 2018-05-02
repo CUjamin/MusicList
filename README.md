@@ -18,4 +18,6 @@ ref:rain《恋如雨止》 Aimer
 
 Memories 「快傑蒸気探偵団」ヴォーカルアルバム White V.A.
 
-2018/5/2 cuj
+2018/5/2 cuj 
+
+for slotMusic
