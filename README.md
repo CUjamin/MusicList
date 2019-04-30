@@ -1,22 +1,23 @@
-歌曲推荐可以在ISSUES上提交
 
-歌单：
+## 歌单：
 
-青のレクイエム《鬼眼狂刀》
+### 动漫
 
-Sincerely《紫罗兰永恒花园》TRUE
+年 |时间|歌单 
+---|---|--
+2019 | 4月|https://raw.githubusercontent.com/CUjamin/MusicList/master/anime/2019/2019q2.md
+2019 | 1月|https://raw.githubusercontent.com/CUjamin/MusicList/master/anime/2019/2019q1.md
+2018 | 1月|https://raw.githubusercontent.com/CUjamin/MusicList/master/anime/2018/2018q1.md
+old	 |    |https://raw.githubusercontent.com/CUjamin/MusicList/master/anime/old/old.md
 
-ref:rain《恋如雨止》 Aimer
 
-ストレイ《博多豚骨拉面》
 
-心做し メリー 鹿乃
+### 其他歌曲
+地址| 
+---|
+https://raw.githubusercontent.com/CUjamin/MusicList/master/music/music.md | 
 
-ナラタージュ ナラタージュ Adieu
 
-影と光を追 「快傑蒸気探偵団」ヴォーカルアルバム White V.A.
-
-Memories 「快傑蒸気探偵団」ヴォーカルアルバム White V.A.
 
 2018/5/2 cuj 
 
